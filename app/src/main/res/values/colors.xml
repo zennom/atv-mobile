@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#00BCD4</color>
+    <color name="colorAccent">#9C27B0</color>
+
+    <!-- Cores de Backgrounds dos Fragments -->
+    <color name="azul">#07487C</color>
+    <color name="preto">#0C0C0C</color>
+    <color name="vermelho">#8F1108</color>
+
+    <!-- Cores para os campos do layout -->
+    <color name="campos">#CAC7C7</color>
+</resources>

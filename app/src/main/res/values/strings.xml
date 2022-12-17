@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Meus Usuários</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Cadastro de Usuários</string>
+    <string name="nav_header_subtitle">Atividade Prof. Uedson</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Sair</string>
+
+    <string name="fragmento_listar_clientes">Lista de Usuários</string>
+    <string name="fragmento_listar_clientes_cards">Lista de Usuários (CARDS)</string>
+
+    <!-- Opções do Menu Lateral -->
+    <string name="fragmento_adicionar_cliente">Adicionar Usuário</string>
+    <string name="fragmento_adicionar_cliente_cards">Adicionar Usuário (CARDS)</string>
+    <string name="fragmento_lista_de_clientes">Listar Usuários</string>
+    <string name="fragmento_lista_de_clientes_card">Listar Usuários (Cards)</string>
+    <string name="fragmento_preto">Fragmento Preto</string>
+    <string name="fragmento_vermelho">Fragmento Vermelho</string>
+    <string name="fragmento_azul">Fragmento Azul</string>
+
+
+    <!-- Opções do Menu Principal -->
+    <string name="meu_perfil">Meu Perfil</string>
+
+    <!-- Layout Novo Cliente -->
+    <string name="novo_cliente">Adicionar Novo Usuário</string>
+    <string name="novo_cliente_card">Adicionar Novo Usuário CARD</string>
+    <string name="perfil_e_contato">Perfil e Contato</string>
+    <string name="endere_o">Endereço</string>
+
+</resources>
